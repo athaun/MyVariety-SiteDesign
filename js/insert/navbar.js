@@ -13,8 +13,8 @@ let navbar = `
         </div>
         <nav>
             <ul>
-                <li><a href="https://discord.gg/GGYgsszjka">Blog</a></li>
-                <li><a href="https://github.com/azurite-engine" target="_blank">Contact Us</a></li>
+                <li><a href="#">Blog</a></li>
+                <li><a href="#" target="_blank">Contact Us</a></li>
             </ul>
         </nav>
     </div>

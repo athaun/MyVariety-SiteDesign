@@ -12,9 +12,9 @@ let footer = `
         </div>
         <nav>
             <ul class="flexbox">
-                <li><a href="https://discord.gg/dhyV3BXkRZ" target="_blank">Jobs</a></li>
-                <li><a href="https://github.com/Games-With-Gabe-Community" target="_blank">About Us</a></li>
-                <li><a href="https://www.youtube.com/channel/UCQP4qSCj1eHMHisDDR4iPzw" target="_blank">Privacy Policy</a></li>
+                <li><a href="#" target="_blank">Jobs</a></li>
+                <li><a href="#" target="_blank">About Us</a></li>
+                <li><a href="#" target="_blank">Privacy Policy</a></li>
             </ul>
         </nav>
         <br>
